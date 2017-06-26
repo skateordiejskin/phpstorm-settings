@@ -57,6 +57,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="2483c23b-bb93-44f6-a677-07f284597cc8" name="socket.jskinner.digitalremedydev.com" url="http://sockets.jskinner.digitalremedydev.com">
+        <fileTransfer host="jskinner.digitalremedydev.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/socket.jskinner.digitalremedydev.com" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
