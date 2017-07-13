@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="31410c29-5513-4dbb-be42-fc33a160c18a" name="data.jskinner.digitalremedydev.com" url="http://data.jskinner.digitalremedydev.com">
+      <webServer id="31410c29-5513-4dbb-be42-fc33a160c18a" name="Data Cruncher" url="http://data.jskinner.digitalremedydev.com">
         <fileTransfer host="jskinner.digitalremedydev.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/data.jskinner.digitalremedydev.com" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -9,7 +9,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="bd3a2bad-7cb8-4fcc-8f39-fcb3828c450a" name="engine.jskinner.digitalrememdydev.com" url="http://engine.jskinner.digitalremedydev.com">
+      <webServer id="bd3a2bad-7cb8-4fcc-8f39-fcb3828c450a" name="Reporting Engine" url="http://engine.jskinner.digitalremedydev.com">
         <fileTransfer host="jskinner.digitalremedydev.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/engine.jskinner.digitalremedydev.com" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -17,7 +17,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="c269a3ac-f2ce-4b63-a785-e65639fa6498" name="jobs.jskinner.digitalremedydev.com" url="http://jobs.jskinner.digitalremedydev.com">
+      <webServer id="c269a3ac-f2ce-4b63-a785-e65639fa6498" name="Job Control" url="http://jobs.jskinner.digitalremedydev.com">
         <fileTransfer host="jskinner.digitalremedydev.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/jobs.jskinner.digitalremedydev.com" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -25,7 +25,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="ba78a1bc-0e92-4719-add0-aa9a831ac149" name="auth.jskinner.digitalremedydev.com" url="http://auth.jskinner.digitalremedydev.com">
+      <webServer id="ba78a1bc-0e92-4719-add0-aa9a831ac149" name="AdReady Auth" url="http://auth.jskinner.digitalremedydev.com">
         <fileTransfer host="jskinner.digitalremedydev.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/auth.jskinner.digitalremedydev.com" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -33,7 +33,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="38b269f5-60f2-4823-a11a-3acfcb0b8b9d" name="reportdash.jskinner.digitalremedydev.com" url="http://reportdash.jskinner.digitalremedydev.com">
+      <webServer id="38b269f5-60f2-4823-a11a-3acfcb0b8b9d" name="Report Dashboard" url="http://reportdash.jskinner.digitalremedydev.com">
         <fileTransfer host="jskinner.digitalremedydev.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/reportdash.jskinner.digitalremedydev.com" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -41,15 +41,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="09d9d3d3-5300-4e0c-9d93-f2673a29de95" name="sockets.jskinner.digitalremedydev.com" url="http://sockets.jskinner.digitalremedydev.com">
-        <fileTransfer host="jskinner.digitalremedydev.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/sockets.jskinner.digitalremedydev.com" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="3d5e34d6-2f1a-44c6-9ea8-26e5d08333b7" name="cruncher.jskinner.digitalremedydev.com" url="http://cruncher.jskinner.digitalremedydev.com">
+      <webServer id="3d5e34d6-2f1a-44c6-9ea8-26e5d08333b7" name="Data Collector" url="http://cruncher.jskinner.digitalremedydev.com">
         <fileTransfer host="jskinner.digitalremedydev.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/cruncher.jskinner.digitalremedydev.com" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -57,7 +49,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="2483c23b-bb93-44f6-a677-07f284597cc8" name="socket.jskinner.digitalremedydev.com" url="http://socket.jskinner.digitalremedydev.com">
+      <webServer id="2483c23b-bb93-44f6-a677-07f284597cc8" name="AdReady PubSub" url="http://socket.jskinner.digitalremedydev.com">
         <fileTransfer host="jskinner.digitalremedydev.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/socket.jskinner.digitalremedydev.com" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -65,8 +57,13 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="dc6eaf82-afc8-4201-821f-72681273bdc5" name="Trafficking Engine" url="http://traffic.digitalremedy.dev/">
-        <fileTransfer port="0" accessType="LOCAL" />
+      <webServer id="ac5202f2-4156-434c-b1fc-c75236e4b1a3" name="AdReady Boost" url="http://jskinner.digitalremedydev.com">
+        <fileTransfer host="jskinner.digitalremedydev.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/boost.jskinner.adready.com" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
       </webServer>
     </option>
   </component>
