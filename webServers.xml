@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="31410c29-5513-4dbb-be42-fc33a160c18a" name="Data Cruncher" url="http://data.jskinner.digitalremedydev.com">
+      <webServer id="31410c29-5513-4dbb-be42-fc33a160c18a" name="Data Collector" url="http://data.jskinner.digitalremedydev.com">
         <fileTransfer host="jskinner.digitalremedydev.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/data.jskinner.digitalremedydev.com" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -41,7 +41,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="3d5e34d6-2f1a-44c6-9ea8-26e5d08333b7" name="Data Collector" url="http://cruncher.jskinner.digitalremedydev.com">
+      <webServer id="3d5e34d6-2f1a-44c6-9ea8-26e5d08333b7" name="Data Cruncher" url="http://cruncher.jskinner.digitalremedydev.com">
         <fileTransfer host="jskinner.digitalremedydev.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/cruncher.jskinner.digitalremedydev.com" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
