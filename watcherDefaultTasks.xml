@@ -33,7 +33,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$USER_HOME$/.composer/vendor/bin/php-cs-fixer" />
-      <option name="scopeName" value="Project Files" />
+      <option name="scopeName" value="Current File" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
