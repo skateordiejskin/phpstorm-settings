@@ -5,7 +5,6 @@
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern=".php" type="PHP" />
       <mapping pattern=".zprofile" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".foreverignore" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
