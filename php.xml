@@ -15,15 +15,15 @@
       <interpreter home="/usr/local/Cellar/php70/7.0.15_8/bin/php" id="1d6ce37f-943e-44fd-96fd-74f935a2be78" name="PHP 7" debugger_id="php.debugger.XDebug" />
       <interpreter home="/usr/local/Cellar/php71/7.1.4_16/bin/php" id="c91af901-6a83-4807-86f1-244c4a3d9d3e" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
       <interpreter home="sftp://dev@jskinner.digitalremedydev.com:22/usr/bin/php" id="3471ce1c-1959-40a8-a72f-6360ac8d1a9d" name="Remote PHP 7.1" debugger_id="php.debugger.XDebug">
-        <remote_data WEB_SERVER_CONFIG_ID="c269a3ac-f2ce-4b63-a785-e65639fa6498" WEB_SERVER_CONFIG_NAME="jobs.jskinner.digitalremedydev.com" WEB_SERVER_CREDENTIALS_ID="sftp://dev@jskinner.digitalremedydev.com:22" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/dev/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data WEB_SERVER_CONFIG_ID="ac5202f2-4156-434c-b1fc-c75236e4b1a3" WEB_SERVER_CONFIG_NAME="AdReady Boost" WEB_SERVER_CREDENTIALS_ID="sftp://dev@jskinner.digitalremedydev.com:22" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/dev/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 7.1">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php7.1" path_separator=":" remote_host="206.71.251.194 54425 22" version="7.1.5-1+deb.sury.org~xenial+1">
-          <additional_php_ini>/etc/php/7.1/cli/conf.d/10-opcache.ini, /etc/php/7.1/cli/conf.d/10-pdo.ini, /etc/php/7.1/cli/conf.d/15-xml.ini, /etc/php/7.1/cli/conf.d/20-calendar.ini, /etc/php/7.1/cli/conf.d/20-ctype.ini, /etc/php/7.1/cli/conf.d/20-curl.ini, /etc/php/7.1/cli/conf.d/20-dom.ini, /etc/php/7.1/cli/conf.d/20-exif.ini, /etc/php/7.1/cli/conf.d/20-fileinfo.ini, /etc/php/7.1/cli/conf.d/20-ftp.ini, /etc/php/7.1/cli/conf.d/20-gettext.ini, /etc/php/7.1/cli/conf.d/20-iconv.ini, /etc/php/7.1/cli/conf.d/20-json.ini, /etc/php/7.1/cli/conf.d/20-mbstring.ini, /etc/php/7.1/cli/conf.d/20-phar.ini, /etc/php/7.1/cli/conf.d/20-posix.ini, /etc/php/7.1/cli/conf.d/20-readline.ini, /etc/php/7.1/cli/conf.d/20-shmop.ini, /etc/php/7.1/cli/conf.d/20-simplexml.ini, /etc/php/7.1/cli/conf.d/20-soap.ini, /etc/php/7.1/cli/conf.d/20-sockets.ini, /etc/php/7.1/cli/conf.d/20-sysvmsg.ini, /etc/php/7.1/cli/conf.d/20-sysvsem.ini, /etc/php/7.1/cli/conf.d/20-sysvshm.ini, /etc/php/7.1/cli/conf.d/20-tokenizer.ini, /etc/php/7.1/cli/conf.d/20-wddx.ini, /etc/php/7.1/cli/conf.d/20-xdebug.ini, /etc/php/7.1/cli/conf.d/20-xmlreader.ini, /etc/php/7.1/cli/conf.d/20-xmlwriter.ini, /etc/php/7.1/cli/conf.d/20-xsl.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php7.1" path_separator=":" remote_host="206.71.251.194" version="7.1.7-1+ubuntu16.04.1+deb.sury.org+1">
+          <additional_php_ini>/etc/php/7.1/cli/conf.d/10-mysqlnd.ini, /etc/php/7.1/cli/conf.d/10-opcache.ini, /etc/php/7.1/cli/conf.d/10-pdo.ini, /etc/php/7.1/cli/conf.d/15-xml.ini, /etc/php/7.1/cli/conf.d/20-ast.ini, /etc/php/7.1/cli/conf.d/20-calendar.ini, /etc/php/7.1/cli/conf.d/20-ctype.ini, /etc/php/7.1/cli/conf.d/20-curl.ini, /etc/php/7.1/cli/conf.d/20-dom.ini, /etc/php/7.1/cli/conf.d/20-exif.ini, /etc/php/7.1/cli/conf.d/20-fileinfo.ini, /etc/php/7.1/cli/conf.d/20-ftp.ini, /etc/php/7.1/cli/conf.d/20-gd.ini, /etc/php/7.1/cli/conf.d/20-gettext.ini, /etc/php/7.1/cli/conf.d/20-iconv.ini, /etc/php/7.1/cli/conf.d/20-json.ini, /etc/php/7.1/cli/conf.d/20-mbstring.ini, /etc/php/7.1/cli/conf.d/20-mysqli.ini, /etc/php/7.1/cli/conf.d/20-pdo_mysql.ini, /etc/php/7.1/cli/conf.d/20-pdo_sqlite.ini, /etc/php/7.1/cli/conf.d/20-phar.ini, /etc/php/7.1/cli/conf.d/20-posix.ini, /etc/php/7.1/cli/conf.d/20-readline.ini, /etc/php/7.1/cli/conf.d/20-shmop.ini, /etc/php/7.1/cli/conf.d/20-simplexml.ini, /etc/php/7.1/cli/conf.d/20-soap.ini, /etc/php/7.1/cli/conf.d/20-sockets.ini, /etc/php/7.1/cli/conf.d/20-sqlite3.ini, /etc/php/7.1/cli/conf.d/20-sysvmsg.ini, /etc/php/7.1/cli/conf.d/20-sysvsem.ini, /etc/php/7.1/cli/conf.d/20-sysvshm.ini, /etc/php/7.1/cli/conf.d/20-tokenizer.ini, /etc/php/7.1/cli/conf.d/20-wddx.ini, /etc/php/7.1/cli/conf.d/20-xdebug.ini, /etc/php/7.1/cli/conf.d/20-xmlreader.ini, /etc/php/7.1/cli/conf.d/20-xmlwriter.ini, /etc/php/7.1/cli/conf.d/20-xsl.ini, /etc/php/7.1/cli/conf.d/20-zip.ini</additional_php_ini>
           <configuration_file>/etc/php/7.1/cli/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
@@ -78,6 +78,7 @@
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
             <configuration_option name="from" value="" />
+            <configuration_option name="gd.jpeg_ignore_warning" value="1" />
             <configuration_option name="hard_timeout" value="2" />
             <configuration_option name="highlight.comment" value="#FF8000" />
             <configuration_option name="highlight.default" value="#0000BB" />
@@ -116,11 +117,33 @@
             <configuration_option name="mbstring.strict_detection" value="0" />
             <configuration_option name="mbstring.substitute_character" value="" />
             <configuration_option name="memory_limit" value="-1" />
+            <configuration_option name="mysqli.allow_local_infile" value="1" />
+            <configuration_option name="mysqli.allow_persistent" value="1" />
+            <configuration_option name="mysqli.default_host" value="" />
+            <configuration_option name="mysqli.default_port" value="3306" />
+            <configuration_option name="mysqli.default_pw" value="" />
+            <configuration_option name="mysqli.default_socket" value="" />
+            <configuration_option name="mysqli.default_user" value="" />
+            <configuration_option name="mysqli.max_links" value="-1" />
+            <configuration_option name="mysqli.max_persistent" value="-1" />
+            <configuration_option name="mysqli.reconnect" value="" />
+            <configuration_option name="mysqli.rollback_on_cached_plink" value="0" />
+            <configuration_option name="mysqlnd.collect_memory_statistics" value="" />
+            <configuration_option name="mysqlnd.collect_statistics" value="1" />
+            <configuration_option name="mysqlnd.debug" value="" />
+            <configuration_option name="mysqlnd.fetch_data_copy" value="0" />
+            <configuration_option name="mysqlnd.log_mask" value="0" />
+            <configuration_option name="mysqlnd.mempool_default_size" value="16000" />
+            <configuration_option name="mysqlnd.net_cmd_buffer_size" value="4096" />
+            <configuration_option name="mysqlnd.net_read_buffer_size" value="32768" />
+            <configuration_option name="mysqlnd.net_read_timeout" value="31536000" />
+            <configuration_option name="mysqlnd.sha256_server_public_key" value="" />
+            <configuration_option name="mysqlnd.trace_alloc" value="" />
             <configuration_option name="opcache.blacklist_filename" value="" />
             <configuration_option name="opcache.consistency_checks" value="0" />
             <configuration_option name="opcache.dups_fix" value="0" />
             <configuration_option name="opcache.enable" value="1" />
-            <configuration_option name="opcache.enable_cli" value="1" />
+            <configuration_option name="opcache.enable_cli" value="0" />
             <configuration_option name="opcache.enable_file_override" value="0" />
             <configuration_option name="opcache.error_log" value="" />
             <configuration_option name="opcache.fast_shutdown" value="0" />
@@ -159,10 +182,11 @@
             <configuration_option name="pcre.backtrack_limit" value="1000000" />
             <configuration_option name="pcre.jit" value="1" />
             <configuration_option name="pcre.recursion_limit" value="100000" />
+            <configuration_option name="pdo_mysql.default_socket" value="/var/run/mysqld/mysqld.sock" />
             <configuration_option name="phar.cache_list" value="" />
             <configuration_option name="phar.readonly" value="1" />
             <configuration_option name="phar.require_hash" value="1" />
-            <configuration_option name="post_max_size" value="8M" />
+            <configuration_option name="post_max_size" value="10G" />
             <configuration_option name="precision" value="14" />
             <configuration_option name="realpath_cache_size" value="4096K" />
             <configuration_option name="realpath_cache_ttl" value="120" />
@@ -212,10 +236,11 @@
             <configuration_option name="soap.wsdl_cache_limit" value="5" />
             <configuration_option name="soap.wsdl_cache_ttl" value="86400" />
             <configuration_option name="sql.safe_mode" value="" />
+            <configuration_option name="sqlite3.extension_dir" value="" />
             <configuration_option name="sys_temp_dir" value="" />
             <configuration_option name="track_errors" value="" />
             <configuration_option name="unserialize_callback_func" value="" />
-            <configuration_option name="upload_max_filesize" value="2M" />
+            <configuration_option name="upload_max_filesize" value="10G" />
             <configuration_option name="upload_tmp_dir" value="" />
             <configuration_option name="url_rewriter.hosts" value="" />
             <configuration_option name="url_rewriter.tags" value="form=" />
@@ -262,7 +287,7 @@
             <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
             <configuration_option name="xdebug.remote_addr_header" value="" />
             <configuration_option name="xdebug.remote_autostart" value="0" />
-            <configuration_option name="xdebug.remote_connect_back" value="0" />
+            <configuration_option name="xdebug.remote_connect_back" value="1" />
             <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
             <configuration_option name="xdebug.remote_enable" value="0" />
             <configuration_option name="xdebug.remote_handler" value="dbgp" />
@@ -297,7 +322,7 @@
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.5.1">
+            <debugger_info debugger="xdebug" debugger_version="2.5.5">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -309,6 +334,7 @@
             <extension name="SPL" />
             <extension name="SimpleXML" />
             <extension name="Zend OPcache" />
+            <extension name="ast" />
             <extension name="calendar" />
             <extension name="ctype" />
             <extension name="curl" />
@@ -318,21 +344,27 @@
             <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="ftp" />
+            <extension name="gd" />
             <extension name="gettext" />
             <extension name="hash" />
             <extension name="iconv" />
             <extension name="json" />
             <extension name="libxml" />
             <extension name="mbstring" />
+            <extension name="mysqli" />
+            <extension name="mysqlnd" />
             <extension name="openssl" />
             <extension name="pcntl" />
             <extension name="pcre" />
+            <extension name="pdo_mysql" />
+            <extension name="pdo_sqlite" />
             <extension name="posix" />
             <extension name="readline" />
             <extension name="session" />
             <extension name="shmop" />
             <extension name="soap" />
             <extension name="sockets" />
+            <extension name="sqlite3" />
             <extension name="standard" />
             <extension name="sysvmsg" />
             <extension name="sysvsem" />
@@ -344,6 +376,7 @@
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
             <extension name="xsl" />
+            <extension name="zip" />
             <extension name="zlib" />
           </loaded_extensions>
         </phpinfo>
