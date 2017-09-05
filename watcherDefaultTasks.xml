@@ -20,14 +20,14 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--verbose --config=$ProjectFileDir$/.php_cs fix $FileDir$/$FileName$ --path-mode=intersection" />
+      <option name="arguments" value="fix --verbose --config=$ProjectFileDir$/.php_cs --path-mode=intersection &quot;$FilePath$&quot;" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="php" />
       <option name="immediateSync" value="false" />
       <option name="name" value="PHP CS Fixer" />
-      <option name="output" value="" />
+      <option name="output" value="$FilePath$" />
       <option name="outputFilters">
         <array />
       </option>
@@ -35,7 +35,7 @@
       <option name="program" value="$USER_HOME$/.composer/vendor/bin/php-cs-fixer" />
       <option name="scopeName" value="Current File" />
       <option name="trackOnlyRoot" value="false" />
-      <option name="workingDir" value="$ProjectFileDir$" />
+      <option name="workingDir" value="" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
