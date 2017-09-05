@@ -6,6 +6,7 @@
       <mapping pattern=".php" type="PHP" />
       <mapping pattern=".zprofile" type="PLAIN_TEXT" />
       <mapping pattern=".foreverignore" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping pattern="EditComponent" type="Vue.js" />
     </extensionMap>
   </component>
