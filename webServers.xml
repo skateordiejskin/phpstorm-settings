@@ -26,7 +26,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="ba78a1bc-0e92-4719-add0-aa9a831ac149" name="AdReady Auth" url="http://auth.jskinner.digitalremedydev.com">
-        <fileTransfer host="jskinner.digitalremedydev.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/auth.jskinner.digitalremedydev.com" accessType="SFTP" keyPair="true">
+        <fileTransfer host="jskinner.digitalremedydev.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/dev/www/auth.jskinner.digitalremedydev.com" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
