@@ -57,7 +57,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="ac5202f2-4156-434c-b1fc-c75236e4b1a3" name="AdReady Boost" url="http://boost.jskinner.digitalremedydev.com/">
+      <webServer id="ac5202f2-4156-434c-b1fc-c75236e4b1a3" name="AdReady Boost" url="https://boost.adready.dev/">
         <fileTransfer host="jskinner.digitalremedydev.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/dev/www/boost-jskinner.adready.com" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -65,7 +65,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="3847792d-61bf-4634-b2d9-8d00e548bdd1" name="AdReady Boost" url="http://boost.adready.dev">
+      <webServer id="3847792d-61bf-4634-b2d9-8d00e548bdd1" name="AdReady Boost (1)" url="http://boost.adready.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
