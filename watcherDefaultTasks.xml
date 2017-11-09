@@ -19,7 +19,7 @@
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="fix --verbose --config=$ProjectFileDir$/.php_cs --path-mode=intersection &quot;$FilePath$&quot;" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
