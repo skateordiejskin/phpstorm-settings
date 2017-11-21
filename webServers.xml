@@ -68,6 +68,9 @@
       <webServer id="3847792d-61bf-4634-b2d9-8d00e548bdd1" name="AdReady Boost (1)" url="http://boost.adready.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="3807aad5-b7b5-4d94-8fc1-5ee6b40ac557" name="Europe" url="http://europe.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
