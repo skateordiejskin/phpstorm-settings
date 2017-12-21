@@ -7,6 +7,7 @@
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern=".zprofile" type="PLAIN_TEXT" />
       <mapping pattern=".foreverignore" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
       <mapping pattern="EditComponent" type="Vue.js" />
     </extensionMap>
   </component>
