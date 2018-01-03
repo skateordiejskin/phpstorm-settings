@@ -2,5 +2,12 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="1.5.2.1" />
     <option name="selectedTheme" value="PALENIGHT" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isBoldTabs" value="true" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="upperCaseTabs" value="true" />
   </component>
 </application>
