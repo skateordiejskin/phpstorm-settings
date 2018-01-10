@@ -1,8 +1,6 @@
 <application>
   <component name="XDebuggerSettings">
-    <data-views>
-      <sort-values>true</sort-values>
-    </data-views>
+    <data-views />
     <general />
     <debuggers>
       <debugger id="javascript">
