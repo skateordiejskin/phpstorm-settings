@@ -4,7 +4,7 @@
     <property name="created">2017-12-14T12:22:17</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.1.0.0</property>
-    <property name="modified">2018-01-11T17:34:08</property>
+    <property name="modified">2018-01-17T10:51:47</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -18,23 +18,17 @@
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
-    <option name="FILESTATUS_ADDED" value="1ea8fc" />
-    <option name="FILESTATUS_COPIED" value="659d9a" />
-    <option name="FILESTATUS_DELETED" value="f77669" />
-    <option name="FILESTATUS_HIJACKED" value="5dcdfd" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="f77669" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="546e7a" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="cccccc" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="546e7a" />
-    <option name="FILESTATUS_MERGED" value="65738e" />
-    <option name="FILESTATUS_MODIFIED" value="1ea8fc" />
-    <option name="FILESTATUS_NOT_CHANGED" value="626669" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="1ea8fc" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="1ea8fc" />
+    <option name="FILESTATUS_COPIED" value="1ea8fc" />
+    <option name="FILESTATUS_HIJACKED" value="b28c00" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
+    <option name="FILESTATUS_MERGED" value="ffffff" />
+    <option name="FILESTATUS_MODIFIED" value="6ee2ff" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6ee2ff" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6ee2ff" />
     <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
-    <option name="FILESTATUS_SUPPRESSED" value="616161" />
+    <option name="FILESTATUS_SUPPRESSED" value="" />
     <option name="FILESTATUS_SWITCHED" value="8978f" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_modifiedOutside" value="1ea8fc" />
+    <option name="FILESTATUS_modifiedOutside" value="6ee2ff" />
   </colors>
 </scheme>
