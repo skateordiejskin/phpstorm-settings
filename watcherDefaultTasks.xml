@@ -1,6 +1,6 @@
 <application>
   <component name="ApplicationTasksOptions">
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="--no-cache --update $FileName$:$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
@@ -8,7 +8,7 @@
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="true" />
       <option name="name" value="SCSS" />
-      <option name="output" value="$FileParentDir$/public/css/$FileNameWithoutExtension$.css:$FileParentDir$/public/css/$FileNameWithoutExtension$.css.map" />
+      <option name="output" value="$ProjectFileDir$\public\css\$FileDirRelativeToProjectRoot$\$FileNameWithoutExtension$.css:$ProjectFileDir$\public\css\$FileDirRelativeToProjectRoot$\$FileNameWithoutExtension$.css.map" />
       <option name="outputFilters">
         <array />
       </option>
