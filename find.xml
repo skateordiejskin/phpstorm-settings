@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,6 +20,7 @@
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
