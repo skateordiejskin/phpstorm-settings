@@ -15,8 +15,10 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern=".php" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
+      <mapping pattern=".php_cs.bk" type="PHP" />
       <mapping pattern=".zprofile" type="PLAIN_TEXT" />
       <mapping pattern=".foreverignore" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping ext="boost" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping pattern="EditComponent" type="Vue.js" />
