@@ -61,7 +61,7 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--config=/Users/jskinner/PhpstormProjects/boost/.php_cs --verbose fix $FileDir$/$FileName$" />
+      <option name="arguments" value="--rules=@PSR2 --verbose fix $FileDir$/$FileName$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
