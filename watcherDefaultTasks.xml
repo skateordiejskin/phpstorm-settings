@@ -60,7 +60,7 @@
       <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="--config=/Users/jskinner/PhpstormProjects/boost/.php_cs --verbose fix $FileDir$/$FileName$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
