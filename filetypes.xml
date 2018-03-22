@@ -19,6 +19,7 @@
       <mapping pattern=".zprofile" type="PLAIN_TEXT" />
       <mapping pattern=".foreverignore" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
+      <mapping ext="bk" type="PLAIN_TEXT" />
       <mapping ext="boost" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping pattern="EditComponent" type="Vue.js" />
