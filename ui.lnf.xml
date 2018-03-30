@@ -1,8 +1,10 @@
 <application>
   <component name="UISettings">
-    <option name="FONT_FACE" value=".SFNSText-Regular" />
+    <option name="COLOR_BLINDNESS" value="deuteranopia" />
+    <option name="FONT_FACE" value="Hack" />
     <option name="FONT_SCALE" value="1.0" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="SHOW_STATUS_BAR" value="false" />
   </component>
 </application>
