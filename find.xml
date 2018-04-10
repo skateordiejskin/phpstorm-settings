@@ -1,23 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.php</mask>
-      <mask>*.s</mask>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
-      <mask>*.scss</mask>
-    </recentFileMasks>
+    <option name="customScope" value="Project 'boost'" />
+    <option name="defaultScopeName" value="Project 'boost'" />
+    <option name="SEARCH_SCOPE" value="Project 'boost'" />
   </component>
 </application>
