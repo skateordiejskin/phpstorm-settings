@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'boost'" />
-    <option name="defaultScopeName" value="Project 'boost'" />
-    <option name="SEARCH_SCOPE" value="Project 'boost'" />
+    <option name="customScope" value="Module 'adready-auth'" />
+    <option name="defaultScopeName" value="Module 'adready-auth'" />
+    <option name="SEARCH_SCOPE" value="Module 'adready-auth'" />
   </component>
 </application>
