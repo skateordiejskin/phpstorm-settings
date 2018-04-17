@@ -1,5 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="PHP/Generate PHPDoc for function" />
-  </component>
-</application>

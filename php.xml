@@ -698,10 +698,6 @@
       </interpreter>
     </phpInfoCache>
   </component>
-  <component name="PhpSmartKeysConfiguration">
-    <option name="selectVariableNameWithoutDollar" value="true" />
-    <option name="smartFunctionParametersCompletion" value="true" />
-  </component>
   <component name="PhpUnit">
     <phpunit_settings>
       <phpunit_by_interpreter interpreter_id="3471ce1c-1959-40a8-a72f-6360ac8d1a9d" load_method="PHPUNIT_PHAR" custom_loader_path="/var/www/jobs.jskinner.digitalremedydev.com/vendor/autoload.php" phpunit_phar_path="/usr/local/bin/phpunit" />
