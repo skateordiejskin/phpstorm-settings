@@ -13,8 +13,8 @@
     <interpreters>
       <interpreter home="/usr/local/Cellar/php70/7.0.15_8/bin/php" id="1d6ce37f-943e-44fd-96fd-74f935a2be78" name="PHP 7" debugger_id="php.debugger.XDebug" />
       <interpreter home="/usr/local/bin/php" id="c91af901-6a83-4807-86f1-244c4a3d9d3e" name="PHP 7.2" debugger_id="php.debugger.XDebug" />
-      <interpreter home="sftp://dev@jskinner.digitalremedydev.com:22/usr/bin/php" id="3471ce1c-1959-40a8-a72f-6360ac8d1a9d" name="Remote PHP 7.1" debugger_id="php.debugger.XDebug">
-        <remote_data WEB_SERVER_CONFIG_ID="ac5202f2-4156-434c-b1fc-c75236e4b1a3" WEB_SERVER_CONFIG_NAME="AdReady Boost" WEB_SERVER_CREDENTIALS_ID="sftp://dev@jskinner.digitalremedydev.com:22" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/dev/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter home="docker://payments//usr/bin/php" id="3471ce1c-1959-40a8-a72f-6360ac8d1a9d" name="Remote PHP 7.1" debugger_id="php.debugger.XDebug">
+        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="payments" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/dev/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="/usr/local/bin/php" id="cf06a0c0-eb7d-4487-9608-6bc926ca6761" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
     </interpreters>
