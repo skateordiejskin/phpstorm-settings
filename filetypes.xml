@@ -4,6 +4,7 @@
       <mapping pattern="" type="Bash" />
       <mapping ext="edge" type="Blade" />
       <mapping pattern="Dockerfile-nginx" type="Dockerfile" />
+      <mapping ext="dockerfile" type="Dockerfile" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="run" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
