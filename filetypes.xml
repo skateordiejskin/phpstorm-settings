@@ -6,10 +6,11 @@
       <mapping pattern="Dockerfile-nginx" type="Dockerfile" />
       <mapping ext="dockerfile" type="Dockerfile" />
       <mapping pattern=".php_cs" type="PHP" />
-      <mapping pattern="run" type="PLAIN_TEXT" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="artisan-schedule-run" type="PLAIN_TEXT" />
       <mapping pattern="env" type="PLAIN_TEXT" />
+      <mapping pattern="id_rsa" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="run" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
