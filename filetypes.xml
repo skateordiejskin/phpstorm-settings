@@ -5,6 +5,7 @@
       <mapping ext="edge" type="Blade" />
       <mapping pattern="Dockerfile-nginx" type="Dockerfile" />
       <mapping ext="dockerfile" type="Dockerfile" />
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="artisan-schedule-run" type="PLAIN_TEXT" />
       <mapping pattern="env" type="PLAIN_TEXT" />
