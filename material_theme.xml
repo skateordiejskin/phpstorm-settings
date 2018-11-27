@@ -1,12 +1,15 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.6.1" />
-    <option name="selectedTheme" value="ONE_DARK" />
-    <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="isContrastMode" value="true" />
-    <option name="isBoldTabs" value="true" />
-    <option name="accentColor" value="80cbc4" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="monochromeIcons" value="true" />
+    <option name="useMaterialFont2" value="true" />
+    <option name="accentColor" value="cb4fab" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
+    <option name="userId" value="-729e329a:16756295528:-7fff" />
+    <option name="version" value="3.0.0-pre4" />
   </component>
 </application>
