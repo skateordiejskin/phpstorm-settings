@@ -12,6 +12,7 @@
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="run" type="PLAIN_TEXT" />
+      <mapping ext="bk" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
