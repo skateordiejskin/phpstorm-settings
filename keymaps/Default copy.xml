@@ -1,1 +1,8 @@
-<keymap version="1" name="Default copy" parent="Mac OS X 10.5+" />
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="meta alt 2" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta alt 1" />
+  </action>
+</keymap>
