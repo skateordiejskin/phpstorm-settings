@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="test" type=".env file" />
       <mapping pattern="" type="Bash" />
       <mapping ext="edge" type="Blade" />
       <mapping pattern="Dockerfile-nginx" type="Dockerfile" />
